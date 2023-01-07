@@ -3,6 +3,9 @@
   "displayName": ".NET Core NTU Extension Pack",
   "description": "This is a collection of relevant VS Code extensions for ASP.NET Core. This list is prepared for the Internet Application Programming module at Nottingham Trent University (NTU)",
   "version": "0.0.1",
+  "publisher": "salisuwy",
+	"private": true,
+	"license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
   },
