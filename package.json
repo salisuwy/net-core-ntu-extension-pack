@@ -1,0 +1,43 @@
+{
+  "name": "net-core-ntu-extension-pack",
+  "displayName": ".NET Core NTU Extension Pack",
+  "description": "This is a collection of relevant VS Code extensions for ASP.NET Core. This list is prepared for the Internet Application Programming module at Nottingham Trent University (NTU)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/salisuwy/net-core-ntu-extension-pack"
+  },
+  "extensionPack": [ 
+    "ms-dotnettools.csharp",
+    "kreativ-software.csharpextensions",
+    "k--kato.docomment",
+    "adrianwilczynski.namespace",
+    "Fudge.auto-using",
+    "aaron-bond.better-comments",
+    "Gruntfuggly.todo-tree",
+    "quicktype.quicktype",
+    "fernandoescolar.vscode-solution-explorer",
+    "formulahendry.dotnet-test-explorer",
+    "christian-kohler.path-intellisense",
+    "jmrog.vscode-nuget-package-manager",
+    "patcx.vscode-nuget-gallery",
+    "adrianwilczynski.asp-net-core-switcher",
+    "tintoy.msbuild-project-tools",
+    "esbenp.prettier-vscode",
+    "formulahendry.dotnet",
+    "formulahendry.auto-rename-tag",
+    "pflannery.vscode-versionlens",
+    "cweijan.vscode-mysql-client2",
+    "yasht.terminal-all-in-one",
+    "PKief.material-icon-theme",
+    "adrianwilczynski.csharp-to-typescript",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion"
+  ]
+}
